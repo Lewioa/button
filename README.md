@@ -33,8 +33,8 @@ npm run test
 👤 **Whirl**
 
 * Website: whirl.codes
-* Twitter: [@Whirl\_21](https://twitter.com/Whirl\_21)
-* Github: [@Whirl21](https://github.com/Whirl21)
+* 
+* 
 
 ## Show your support
 
